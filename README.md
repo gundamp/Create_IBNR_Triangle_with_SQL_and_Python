@@ -1,4 +1,4 @@
-# Create IBNR Triangle with_SQL and Python
+# Create IBNR Triangle with SQL and Python
 Using data science tools such as Python and SQL for actuarial applications such as IBNR reserving
 
 A collaboration with Jacky Poon https://github.com/jackyp
